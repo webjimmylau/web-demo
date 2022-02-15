@@ -1,5 +1,5 @@
 <template>
-  <div>home</div>
+  <div>mod-left-nav</div>
 </template>
 
 <script>
