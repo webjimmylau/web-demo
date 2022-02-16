@@ -1,5 +1,5 @@
 <template>
-  <div>mod-footer</div>
+  <div>welcome</div>
 </template>
 
 <script>

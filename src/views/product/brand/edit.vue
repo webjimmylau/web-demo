@@ -1,5 +1,5 @@
 <template>
-  <div>home</div>
+  <div>brand edit</div>
 </template>
 
 <script>
